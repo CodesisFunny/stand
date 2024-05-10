@@ -5,11 +5,11 @@ getgenv()._=
 
 // Example \\
 
-getgenv().Accounts = {OWNER = 'YourOwnerUsername', STAND = "YourStandUsername"} This is just the example dont put the username here ]]
+getgenv().Accounts = {OWNER = 'wasd', STAND = "wasd"} This is just the example dont put the username here ]]
 
 --// ! Accounts ! \\--
 
-getgenv().Accounts = {OWNER = 'XK5NG', STAND = "AmenBot10"}
+getgenv().Accounts = {OWNER = '21k_65I5', STAND = "21k_65I6"}
 
 --\\-- Stand-Settings --//--
 getgenv().StandConfig = {
